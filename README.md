@@ -1,2 +1,2 @@
 # SwiftyConstraints
-Create a constraint between two UIView extending the UIView class in a Swifty way :)
+Create a constraint programmatically between two UIView extending the UIView class in a Swifty way :)
