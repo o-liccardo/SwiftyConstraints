@@ -1,5 +1,5 @@
 # SwiftyConstraints
-SwiftyConstraints is and extension of the UIView class that enable every instance of the sub classes of the UIView (UILabel, UIButton, etc) to set constraints programmatically between two UIView(or sub classes) in a Swifty way :)
+SwiftyConstraints is and extension of the UIView class that enable every instance of the UIView's sub classes (UILabel, UIButton, etc) to set constraints programmatically between two UIView(or sub classes) in a Swifty way :)
 
 ## Code Example
 In this case, the label that we create will be centered to the main view
